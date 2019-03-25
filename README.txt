@@ -1,12 +1,17 @@
-Source code for the Univeristy of Utah Triangle Fraternity website.
+           \ ---- Univeristy of Utah Triangle Fraternity website ---- /
+           
+          Source code for the Univeristy of Utah Triangle Fraternity website.
+          
 Authors include:
-- Joseph Z
-- Spencer E
-- Theaux M
+        - Joseph Z
+        - Spencer E
+        - Theaux M
 
 Potential Additions:
-- Integration of google log in for an actives only database
-- UI and LINQ integration for custom query creation and execution.
+        - Integration of google log in for an actives only database
+        - UI and LINQ integration for custom query creation and execution.
+        
+        
 Credits:
 	Template:
 		AJ
